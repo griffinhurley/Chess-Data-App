@@ -1,0 +1,44 @@
+.App {
+  background-color: #282c34;
+  min-height: 100vh;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  padding-top: 10px;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  align-items: right;
+  
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.user-input {
+  background-color: #282c34;
+  position: relative;
+  padding-top: 10px;
+}
+.input-box {
+  position: relative;
+  left: 300px;
+  top: 5px;
+}
+
+.submit-button {
+  position: relative;
+  left: 300px;
+  top: 5px;
+}
+.Chart {
+  align-items: center;
+  padding-top: 10px;
+  padding-right: 40px;
+}
+.Pie {
+  align-items: center;
+  padding-left: 60px;
+  padding-top: 10px;
+  padding-right: 40px;
+}
