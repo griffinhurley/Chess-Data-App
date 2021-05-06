@@ -10,7 +10,7 @@
     "d3": "^5.15.0",
     "dataframe-js": "^1.4.3",
     "eslint": "^6.8.0",
-    "highcharts": "^8.0.4",
+    "highcharts": "^9.0.0",
     "highcharts-react-official": "^3.0.0",
     "http-proxy-middleware": "^1.0.4",
     "jquery": "^3.5.1",
